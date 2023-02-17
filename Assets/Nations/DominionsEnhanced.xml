@@ -6,10 +6,10 @@
     <WaterPercentage>0.4</WaterPercentage>
     <Age>MIDDLE</Age>
     <CapRingSize>5</CapRingSize>
-    <CapTerrain>SEA DEEPSEA</CapTerrain>
+    <CapTerrain>SEA</CapTerrain>
+    <TerrainData>SEA DEEPSEA</TerrainData>
     <TerrainData>SEA DEEPSEA</TerrainData>
     <TerrainData>SEA FOREST</TerrainData>
-    <TerrainData>SEA</TerrainData>
     <TerrainData>SEA</TerrainData>
     <TerrainData>SEA</TerrainData>
   </Nation>
